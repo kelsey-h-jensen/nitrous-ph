@@ -1,0 +1,461 @@
+state_abbr,state_name,areasymbol,areaname,histosol_acres,histosol_pct,mineral_pct,total_survey_acres,n_histosol_series,histosol_series
+IA,Iowa,IA189,"Winnebago County, Iowa",12761.51,4.96,95.04,257100,4,"Boots, Houghton, Klossner, Muskego"
+IA,Iowa,IA081,"Hancock County, Iowa",11198.31,3.05,96.95,366600,5,"Houghton, Klossner, Medo, Muskego, Palms"
+IA,Iowa,IA063,"Emmet County, Iowa",6854.84,2.67,97.33,257000,3,"Aquolls, Klossner, Muskego"
+IA,Iowa,IA195,"Worth County, Iowa",6041.7,2.35,97.65,257100,3,"Boots, Houghton, Klossner"
+IA,Iowa,IA033,"Cerro Gordo County, Iowa",5756.65,1.56,98.44,368100,3,"Houghton, Klossner, Palms"
+IA,Iowa,IA019,"Buchanan County, Iowa",5742.85,1.57,98.43,366800,2,"Houghton, Klossner"
+IA,Iowa,IA037,"Chickasaw County, Iowa",4793.8,1.48,98.52,323300,2,"Houghton, Klossner"
+IA,Iowa,IA065,"Fayette County, Iowa",4340.85,0.93,99.07,468100,2,"Houghton, Klossner"
+IA,Iowa,IA109,"Kossuth County, Iowa",4102.2,0.66,99.34,624800,1,Klossner
+IA,Iowa,IA055,"Delaware County, Iowa",3761.6,1.01,98.99,370800,2,"Houghton, Klossner"
+IA,Iowa,IA089,"Howard County, Iowa",3295.95,1.09,98.91,302700,2,"Houghton, Klossner"
+IA,Iowa,IA197,"Wright County, Iowa",3034.5,0.81,99.19,372400,2,"Klossner, Palms"
+IA,Iowa,IA079,"Hamilton County, Iowa",2873.3,0.78,99.22,369600,3,"Aquents, Klossner, Palms"
+IA,Iowa,IA023,"Butler County, Iowa",2669.1,0.72,99.28,372300,2,"Houghton, Klossner"
+IA,Iowa,IA013,"Black Hawk County, Iowa",2381.95,0.65,99.35,366600,2,"Houghton, Klossner"
+IA,Iowa,IA147,"Palo Alto County, Iowa",2355.1,0.65,99.35,363600,2,"Klossner, Marsh"
+IA,Iowa,IA067,"Floyd County, Iowa",2319.5,0.72,99.28,320800,2,"Houghton, Klossner"
+IA,Iowa,IA113,"Linn County, Iowa",2140.85,0.46,99.54,463700,2,"Houghton, Klossner"
+IA,Iowa,IA069,"Franklin County, Iowa",2106.15,0.56,99.44,373000,2,"Houghton, Klossner"
+IA,Iowa,IA017,"Bremer County, Iowa",1978.25,0.7,99.3,281100,2,"Houghton, Klossner"
+IA,Iowa,IA071,"Fremont County, Iowa",1890.5,0.57,99.43,330800,1,Marsh
+IA,Iowa,IA131,"Mitchell County, Iowa",1796.3,0.6,99.4,300500,2,"Houghton, Klossner"
+IA,Iowa,IA191,"Winneshiek County, Iowa",1630.4,0.37,99.63,441500,2,"Houghton, Klossner"
+IA,Iowa,IA075,"Grundy County, Iowa",1281.25,0.4,99.6,320800,2,"Houghton, Klossner"
+IA,Iowa,IA045,"Clinton County, Iowa",1212.28,0.27,99.73,454100,3,"Houghton, Kerston, Klossner"
+IA,Iowa,IA091,"Humboldt County, Iowa",1105.6,0.4,99.6,279400,1,Klossner
+IA,Iowa,IA041,"Clay County, Iowa",845.83,0.23,99.77,366400,2,"Histosols, fens, Klossner"
+IA,Iowa,IA139,"Muscatine County, Iowa",792.6,0.28,99.72,287500,4,"Aquolls, Houghton, Klossner, Palms"
+IA,Iowa,IA011,"Benton County, Iowa",783.4,0.17,99.83,459800,2,"Houghton, Klossner"
+IA,Iowa,IA105,"Jones County, Iowa",681.6,0.18,99.82,368800,2,"Houghton, Klossner"
+IA,Iowa,IA015,"Boone County, Iowa",653.7,0.18,99.82,367200,2,"Klossner, Palms"
+IA,Iowa,IA161,"Sac County, Iowa",591,0.16,99.84,370100,2,"Klossner, Marsh"
+IA,Iowa,IA083,"Hardin County, Iowa",448.2,0.12,99.88,364400,1,Klossner
+IA,Iowa,IA111,"Lee County, Iowa",440.8,0.13,99.87,345300,1,Marsh
+IA,Iowa,IA169,"Story County, Iowa",384.3,0.1,99.9,367200,1,Klossner
+IA,Iowa,IA043,"Clayton County, Iowa",354.05,0.07,99.93,509000,2,"Houghton, Klossner"
+IA,Iowa,IA007,"Appanoose County, Iowa",330.6,0.1,99.9,329500,1,Marsh
+IA,Iowa,IA077,"Guthrie County, Iowa",316.35,0.08,99.92,379900,1,Marsh
+IA,Iowa,IA153,"Polk County, Iowa",314.02,0.08,99.92,378800,1,Klossner
+IA,Iowa,IA187,"Webster County, Iowa",265.63,0.06,99.94,459600,2,"Fens, Klossner"
+IA,Iowa,IA061,"Dubuque County, Iowa",154.65,0.04,99.96,394600,1,Klossner
+IA,Iowa,IA021,"Buena Vista County, Iowa",140.4,0.04,99.96,371100,1,Klossner
+IA,Iowa,IA103,"Johnson County, Iowa",115,0.03,99.97,398900,2,"Houghton, Klossner"
+IA,Iowa,IA031,"Cedar County, Iowa",99.75,0.03,99.97,372700,2,"Houghton, Klossner"
+IA,Iowa,IA099,"Jasper County, Iowa",88.25,0.02,99.98,468700,1,Marsh
+IA,Iowa,IA163,"Scott County, Iowa",53.95,0.02,99.98,299900,1,Klossner
+IA,Iowa,IA059,"Dickinson County, Iowa",2,0,100,258600,1,Histosols
+IA,Iowa,IA001,"Adair County, Iowa",0,0,100,364600,0,NA
+IA,Iowa,IA003,"Adams County, Iowa",0,0,100,272700,0,NA
+IA,Iowa,IA005,"Allamakee County, Iowa",0,0,100,422200,0,NA
+IA,Iowa,IA009,"Audubon County, Iowa",0,0,100,284400,0,NA
+IA,Iowa,IA025,"Calhoun County, Iowa",0,0,100,366800,0,NA
+IA,Iowa,IA027,"Carroll County, Iowa",0,0,100,364900,0,NA
+IA,Iowa,IA029,"Cass County, Iowa",0,0,100,361700,0,NA
+IA,Iowa,IA035,"Cherokee County, Iowa",0,0,100,369300,0,NA
+IA,Iowa,IA039,"Clarke County, Iowa",0,0,100,276000,0,NA
+IA,Iowa,IA047,"Crawford County, Iowa",0,0,100,457200,0,NA
+IA,Iowa,IA049,"Dallas County, Iowa",0,0,100,378200,0,NA
+IA,Iowa,IA051,"Davis County, Iowa",0,0,100,323100,0,NA
+IA,Iowa,IA053,"Decatur County, Iowa",0,0,100,342600,0,NA
+IA,Iowa,IA057,"Des Moines County, Iowa",0,0,100,274500,0,NA
+IA,Iowa,IA073,"Greene County, Iowa",0,0,100,366300,0,NA
+IA,Iowa,IA085,"Harrison County, Iowa",0,0,100,448500,0,NA
+IA,Iowa,IA087,"Henry County, Iowa",0,0,100,278900,0,NA
+IA,Iowa,IA093,"Ida County, Iowa",0,0,100,276400,0,NA
+IA,Iowa,IA095,"Iowa County, Iowa",0,0,100,376100,0,NA
+IA,Iowa,IA097,"Jackson County, Iowa",0,0,100,416100,0,NA
+IA,Iowa,IA101,"Jefferson County, Iowa",0,0,100,281300,0,NA
+IA,Iowa,IA107,"Keokuk County, Iowa",0,0,100,371300,0,NA
+IA,Iowa,IA115,"Louisa County, Iowa",0,0,100,266900,0,NA
+IA,Iowa,IA117,"Lucas County, Iowa",0,0,100,278300,0,NA
+IA,Iowa,IA119,"Lyon County, Iowa",0,0,100,376200,0,NA
+IA,Iowa,IA121,"Madison County, Iowa",0,0,100,360400,0,NA
+IA,Iowa,IA123,"Mahaska County, Iowa",0,0,100,365800,0,NA
+IA,Iowa,IA125,"Marion County, Iowa",0,0,100,368100,0,NA
+IA,Iowa,IA127,"Marshall County, Iowa",0,0,100,366700,0,NA
+IA,Iowa,IA129,"Mills County, Iowa",0,0,100,281900,0,NA
+IA,Iowa,IA133,"Monona County, Iowa",0,0,100,447300,0,NA
+IA,Iowa,IA135,"Monroe County, Iowa",0,0,100,277900,0,NA
+IA,Iowa,IA137,"Montgomery County, Iowa",0,0,100,271300,0,NA
+IA,Iowa,IA141,"O'Brien County, Iowa",0,0,100,367100,0,NA
+IA,Iowa,IA143,"Osceola County, Iowa",0,0,100,255400,0,NA
+IA,Iowa,IA145,"Page County, Iowa",0,0,100,342600,0,NA
+IA,Iowa,IA149,"Plymouth County, Iowa",0,0,100,553000,0,NA
+IA,Iowa,IA151,"Pocahontas County, Iowa",0,0,100,369900,0,NA
+IA,Iowa,IA155,"Pottawattamie County, Iowa",0,0,100,613800,0,NA
+IA,Iowa,IA157,"Poweshiek County, Iowa",0,0,100,374900,0,NA
+IA,Iowa,IA159,"Ringgold County, Iowa",0,0,100,343100,0,NA
+IA,Iowa,IA165,"Shelby County, Iowa",0,0,100,378300,0,NA
+IA,Iowa,IA167,"Sioux County, Iowa",0,0,100,492000,0,NA
+IA,Iowa,IA171,"Tama County, Iowa",0,0,100,462300,0,NA
+IA,Iowa,IA173,"Taylor County, Iowa",0,0,100,343900,0,NA
+IA,Iowa,IA175,"Union County, Iowa",0,0,100,273100,0,NA
+IA,Iowa,IA177,"Van Buren County, Iowa",0,0,100,312800,0,NA
+IA,Iowa,IA179,"Wapello County, Iowa",0,0,100,278800,0,NA
+IA,Iowa,IA181,"Warren County, Iowa",0,0,100,366900,0,NA
+IA,Iowa,IA183,"Washington County, Iowa",0,0,100,365200,0,NA
+IA,Iowa,IA185,"Wayne County, Iowa",0,0,100,337100,0,NA
+IA,Iowa,IA193,"Woodbury County, Iowa",0,0,100,561500,0,NA
+LA,Louisiana,LA109,"Terrebonne Parish, Louisiana",430129.61,41.59,58.41,1034100,8,"Allemands, Bellpass, Carlin, Clovelly, Kenner, Lafitte, Maurepas, Timbalier"
+LA,Louisiana,LA057,"Lafourche Parish, Louisiana",263962.5,31.84,68.16,828900,7,"Allemands, Bellpass, Carlin, Clovelly, Kenner, Lafitte, Timbalier"
+LA,Louisiana,LA023,"Cameron Parish, Louisiana",230584.64,21.83,78.17,1056500,5,"Allemands, Carlin, Clovelly, Kenner, Lafitte"
+LA,Louisiana,LA075,"Plaquemines Parish, Louisiana",179368.35,19.89,80.11,901800,7,"Allemands, Bellpass, Carlin, Clovelly, Kenner, Lafitte, Timbalier"
+LA,Louisiana,LA113,"Vermilion Parish, Louisiana",149848.55,17.83,82.17,840397,5,"Allemands, Clovelly, Delcomb, Kenner, Lafitte"
+LA,Louisiana,LA087,"St. Bernard Parish, Louisiana",120874.72,25.3,74.7,477800,6,"Allemands, Bellpass, Clovelly, Kenner, Lafitte, Timbalier"
+LA,Louisiana,LA101,"St. Mary Parish, Louisiana",116890.25,26.42,73.58,442400,6,"Allemands, Carlin, Clovelly, Kenner, Lafitte, Maurepas"
+LA,Louisiana,LA051,"Jefferson Parish, Louisiana",94630.12,24.43,75.57,387400,7,"Allemands, Bellpass, Carlin, Clovelly, Kenner, Lafitte, Timbalier"
+LA,Louisiana,LA089,"St. Charles Parish, Louisiana",69030.27,26.47,73.53,260800,6,"Allemands, Carlin, Clovelly, Kenner, Lafitte, Maurepas"
+LA,Louisiana,LA045,"Iberia Parish, Louisiana",59525.9,14.77,85.23,403100,3,"Delcomb, Lafitte, Maurepas"
+LA,Louisiana,LA105,"Tangipahoa Parish, Louisiana",54017.95,10.31,89.69,523700,2,"Kenner, Maurepas"
+LA,Louisiana,LA071,"Orleans Parish, Louisiana",36826.15,16.46,83.54,223700,4,"Allemands, Clovelly, Kenner, Lafitte"
+LA,Louisiana,LA103,"St. Tammany Parish, Louisiana",33660.19,4.66,95.34,721800,5,"Allemands, Clovelly, Kenner, Lafitte, Maurepas"
+LA,Louisiana,LA095,"St. John the Baptist Parish, Louisiana",22786.9,10.33,89.67,220500,4,"Allemands, Carlin, Kenner, Maurepas"
+LA,Louisiana,LA063,"Livingston Parish, Louisiana",16564.5,3.7,96.3,448000,1,Maurepas
+LA,Louisiana,LA019,"Calcasieu Parish, Louisiana",8978.08,1.28,98.72,699900,3,"Allemands, Clovelly, Lafitte"
+LA,Louisiana,LA053,"Jefferson Davis Parish, Louisiana",2102.1,0.5,99.5,421600,3,"Allemands, Carlin, Kenner"
+LA,Louisiana,LA093,"St. James Parish, Louisiana",2023.74,1.25,98.75,162500,1,Maurepas
+LA,Louisiana,LA067,"Morehouse Parish, Louisiana",633,0.12,99.88,516300,1,Allemands
+LA,Louisiana,LA083,"Richland Parish, Louisiana",322.75,0.09,99.91,360700,1,Maurepas
+LA,Louisiana,LA001,"Acadia Parish, Louisiana",0,0,100,420400,0,NA
+LA,Louisiana,LA003,"Allen Parish, Louisiana",0,0,100,490500,0,NA
+LA,Louisiana,LA005,"Ascension Parish, Louisiana",0,0,100,193900,0,NA
+LA,Louisiana,LA007,"Assumption Parish, Louisiana",0,0,100,234600,0,NA
+LA,Louisiana,LA009,"Avoyelles Parish, Louisiana",0,0,100,553300,0,NA
+LA,Louisiana,LA011,"Beauregard Parish, Louisiana",0,0,100,746000,0,NA
+LA,Louisiana,LA013,"Bienville Parish, Louisiana",0,0,100,526400,0,NA
+LA,Louisiana,LA015,"Bossier Parish, Louisiana",0,0,100,554500,0,NA
+LA,Louisiana,LA017,"Caddo Parish, Louisiana",0,0,100,600400,0,NA
+LA,Louisiana,LA021,"Caldwell Parish, Louisiana",0,0,100,346100,0,NA
+LA,Louisiana,LA025,"Catahoula Parish, Louisiana",0,0,100,473500,0,NA
+LA,Louisiana,LA027,"Claiborne Parish, Louisiana",0,0,100,491300,0,NA
+LA,Louisiana,LA029,"Concordia Parish, Louisiana",0,0,100,479600,0,NA
+LA,Louisiana,LA031,"De Soto Parish, Louisiana",0,0,100,572400,0,NA
+LA,Louisiana,LA033,"East Baton Rouge Parish, Louisiana",0,0,100,301700,0,NA
+LA,Louisiana,LA035,"East Carroll Parish, Louisiana",0,0,100,285600,0,NA
+LA,Louisiana,LA037,"East Feliciana Parish, Louisiana",0,0,100,291500,0,NA
+LA,Louisiana,LA039,"Evangeline Parish, Louisiana",0,0,100,435300,0,NA
+LA,Louisiana,LA041,"Franklin Parish, Louisiana",0,0,100,406800,0,NA
+LA,Louisiana,LA043,"Grant Parish, Louisiana",0,0,100,425000,0,NA
+LA,Louisiana,LA047,"Iberville Parish, Louisiana",0,0,100,417800,0,NA
+LA,Louisiana,LA049,"Jackson Parish, Louisiana",0,0,100,370800,0,NA
+LA,Louisiana,LA055,"Lafayette Parish, Louisiana",0,0,100,172600,0,NA
+LA,Louisiana,LA059,"LaSalle Parish, Louisiana",0,0,100,424100,0,NA
+LA,Louisiana,LA061,"Lincoln Parish, Louisiana",0,0,100,302300,0,NA
+LA,Louisiana,LA065,"Madison Parish, Louisiana",0,0,100,416300,0,NA
+LA,Louisiana,LA069,"Natchitoches Parish, Louisiana",0,0,100,832000,0,NA
+LA,Louisiana,LA073,"Ouachita Parish, Louisiana",0,0,100,404600,0,NA
+LA,Louisiana,LA077,"Pointe Coupee Parish, Louisiana",0,0,100,378000,0,NA
+LA,Louisiana,LA079,"Rapides Parish, Louisiana",0,0,100,871500,0,NA
+LA,Louisiana,LA081,"Red River Parish, Louisiana",0,0,100,257300,0,NA
+LA,Louisiana,LA085,"Sabine Parish, Louisiana",0,0,100,647400,0,NA
+LA,Louisiana,LA091,"St. Helena Parish, Louisiana",0,0,100,262000,0,NA
+LA,Louisiana,LA097,"St. Landry Parish, Louisiana",0,0,100,601000,0,NA
+LA,Louisiana,LA099,"St. Martin Parish, Louisiana",0,0,100,523546,0,NA
+LA,Louisiana,LA107,"Tensas Parish, Louisiana",0,0,100,411100,0,NA
+LA,Louisiana,LA111,"Union Parish, Louisiana",0,0,100,578900,0,NA
+LA,Louisiana,LA115,"Vernon Parish, Louisiana",0,0,100,858300,0,NA
+LA,Louisiana,LA117,"Washington Parish, Louisiana",0,0,100,432400,0,NA
+LA,Louisiana,LA119,"Webster Parish, Louisiana",0,0,100,393600,0,NA
+LA,Louisiana,LA121,"West Baton Rouge Parish, Lousiana",0,0,100,129700,0,NA
+LA,Louisiana,LA123,"West Carroll Parish, Louisiana",0,0,100,230300,0,NA
+LA,Louisiana,LA125,"West Feliciana Parish, Louisiana",0,0,100,273100,0,NA
+LA,Louisiana,LA127,"Winn Parish, Louisiana",0,0,100,612200,0,NA
+MI,Michigan,MI153,"Schoolcraft County, Michigan",249609.36,31.94,68.06,781497,10,"Carbondale, Cathro, Chippeny, Dawson, Greenwood, Histosols, Loxley, Lupton, Markey, Tawas"
+MI,Michigan,MI103,"Marquette County, Michigan",200924.33,16.76,83.24,1198912,11,"Carbondale, Cathro, Chippeny, Dawson, Greenwood, Histosols, Loxley, Lupton, Markey, Skandia, Tawas"
+MI,Michigan,MI109,"Menominee County, Michigan",192565.99,28.62,71.38,672884,9,"Carbondale, Cathro, Chippeny, Dawson, Greenwood, Loxley, Lupton, Markey, Tawas"
+MI,Michigan,MI041,"Delta County, Michigan",188667.8,24.59,75.41,767190,11,"Carbondale, Cathro, Chippeny, Dawson, Greenwood, Loxley, Lupton, Markey, Rifle, Tacoosh, Tawas"
+MI,Michigan,MI095,"Luce County, Michigan",172670.22,29.1,70.9,593319,10,"Carbondale, Cathro, Dawson, Dorval, Greenwood, Histosols, Loxley, Lupton, Markey, Tawas"
+MI,Michigan,MI033,"Chippewa County, Michigan",164490.34,14.48,85.52,1135981,10,"Carbondale, Chippeny, Dawson, Dora, Greenwood, Histosols, Loxley, Lupton, Markey, Tawas"
+MI,Michigan,MI097,"Mackinac County, Michigan",149365.08,21.37,78.63,698937,10,"Carbondale, Cathro, Dawson, Dorval, Greenwood, Histosols, Loxley, Lupton, Markey, Tawas"
+MI,Michigan,MI043,"Dickinson County, Michigan",103707.85,20.84,79.16,497549,9,"Carbondale, Cathro, Dawson, Greenwood, Histosols, Loxley, Lupton, Markey, Tawas"
+MI,Michigan,MI003,"Alger County, Michigan",102267.84,16.85,83.15,606887,12,"Carbondale, Cathro, Chippeny, Dawson, Greenwood, Histosols, Loxley, Lupton, Markey, Skandia, Tawas, Trout Bay"
+MI,Michigan,MI071,"Iron County, Michigan",93911.31,12.12,87.88,775091,10,"Beseman, Bowstring, Cathro, Dawson, Greenwood, Histosols, Loxley, Lupton, Markey, Tawas"
+MI,Michigan,MI053,"Gogebic County, Michigan",92761.22,12.67,87.33,732256,11,"Beseman, Bowstring, Cathro, Dawson, Dorval, Greenwood, Histosols, Loxley, Lupton, Markey, Tawas"
+MI,Michigan,MI013,"Baraga County, Michigan",80094.08,13.47,86.53,594406,12,"Beseman, Bowstring, Carbondale, Cathro, Dawson, Greenwood, Histosols, Loxley, Lupton, Markey, Tacoosh, Tawas"
+MI,Michigan,MI075,"Jackson County, Michigan",72413.21,15.64,84.36,463028,6,"Adrian, Edwards, Histosols, Houghton, Napoleon, Palms"
+MI,Michigan,MI117,"Montcalm County, Michigan",62965.32,13.66,86.34,460915,10,"Adrian, Carlisle, Edwards, Greenwood, Houghton, Kerston, Linwood, Palms, Rifle, Tawas"
+MI,Michigan,MI141,"Presque Isle County, Michigan",59335.22,13.47,86.53,440493,7,"Cathro, Dawson, Greenwood, Histosols, Lupton, Rondeau, Tawas"
+MI,Michigan,MI093,"Livingston County, Michigan",57776.97,15.42,84.58,374611,8,"Adrian, Carlisle, Edwards, Houghton, Linwood, Palms, Rifle, Tawas"
+MI,Michigan,MI007,"Alpena County, Michigan",57599.91,14.96,85.04,385017,9,"Cathro, Chippeny, Dawson, Dorval, Histosols, Loxley, Lupton, Rondeau, Tawas"
+MI,Michigan,MI031,"Cheboygan County, Michigan",57170.61,11.2,88.8,510394,9,"Bowstring, Cathro, Dawson, Greenwood, Histosols, Loxley, Lupton, Rondeau, Tawas"
+MI,Michigan,MI143,"Roscommon County, Michigan",55540.28,14.96,85.04,371251,6,"Bowstring, Dawson, Histosols, Loxley, Lupton, Tawas"
+MI,Michigan,MI025,"Calhoun County, Michigan",55328.04,12.03,87.97,459776,5,"Adrian, Edwards, Histosols, Houghton, Palms"
+MI,Michigan,MI001,"Alcona County, Michigan",48870.81,10.98,89.02,445126,9,"Cathro, Dorval, Haplosaprists, Histosols, Loxley, Lupton, Markey, Rondeau, Tawas"
+MI,Michigan,MI125,"Oakland County, Michigan",48209.04,8.3,91.7,580723,8,"Adrian, Carlisle, Edwards, Houghton, Linwood, Lupton, Napoleon, Willette"
+MI,Michigan,MI133,"Osceola County, Michigan",44450.89,12.13,87.87,366528,15,"Adrian, Carbondale, Cathro, Dawson, Greenwood, Houghton, Kerston, Linwood, Loxley, Lupton, Markey, Rifle, Rondeau, Tawas, Willette"
+MI,Michigan,MI087,"Lapeer County, Michigan",43891.16,10.35,89.65,423961,11,"Adrian, Carlisle, Edwards, Greenwood, Houghton, Linwood, Lupton, Palms, Spalding, Timakwa, Willette"
+MI,Michigan,MI035,"Clare County, Michigan",43852.5,11.89,88.11,368723,12,"Adrian, Carlisle, Cathro, Greenwood, Histosols, Linwood, Loxley, Lupton, Markey, Pinnebog, Rondeau, Tawas"
+MI,Michigan,MI113,"Missaukee County, Michigan",43660.82,11.92,88.08,366311,7,"Carbondale, Cathro, Histosols, Loxley, Lupton, Rondeau, Tawas"
+MI,Michigan,MI151,"Sanilac County, Michigan",42748.04,6.93,93.07,617216,13,"Adrian, Carlisle, Edwards, Greenwood, Houghton, Kerston, Linwood, Palms, Pinnebog, Rifle, Spalding, Timakwa, Willette"
+MI,Michigan,MI600,"Lake and Wexford Counties, Michigan",41289.28,5.61,94.39,736269,8,"Adrian, Carlisle, Cathro, Histosols, Loxley, Lupton, Rondeau, Tawas"
+MI,Michigan,MI061,"Houghton County, Michigan",40090.66,6,94,667904,11,"Beseman, Bowstring, Cathro, Dawson, Dorval, Greenwood, Histosols, Loxley, Lupton, Markey, Tawas"
+MI,Michigan,MI119,"Montmorency County, Michigan",39730.75,11.04,88.96,359764,6,"Dawson, Dorval, Histosols, Loxley, Lupton, Tawas"
+MI,Michigan,MI159,"Van Buren County, Michigan",39016.32,9.77,90.23,399296,6,"Adrian, Edwards, Histosols, Houghton, Napoleon, Palms"
+MI,Michigan,MI065,"Ingham County, Michigan",38936.1,10.85,89.15,358919,9,"Adrian, Boots, Carlisle, Edwards, Histosols, Houghton, Linwood, Napoleon, Palms"
+MI,Michigan,MI123,"Newaygo County, Michigan",36691.08,6.65,93.35,551757,12,"Adrian, Carlisle, Cathro, Edwards, Histosols, Houghton, Linwood, Lupton, Napoleon, Palms, Rondeau, Tawas"
+MI,Michigan,MI161,"Washtenaw County, Michigan",36663.4,7.93,92.07,462560,7,"Adrian, Carlisle, Edwards, Houghton, Linwood, Muskego, Palms"
+MI,Michigan,MI069,"Iosco County, Michigan",36370.97,10.05,89.95,361837,9,"Borosaprists, Cathro, Dawson, Dorval, Haplosaprists, Histosols, Lupton, Rondeau, Tawas"
+MI,Michigan,MI129,"Ogemaw County, Michigan",35698.12,9.7,90.3,368064,7,"Cathro, Dawson, Histosols, Loxley, Lupton, Rondeau, Tawas"
+MI,Michigan,MI015,"Barry County, Michigan",33756.66,9.14,90.86,369210,5,"Adrian, Edwards, Histosols, Houghton, Palms"
+MI,Michigan,MI614,"Benzie and Manistee Counties, Michigan",33601.08,5.79,94.21,580217,8,"Adrian, Haplosaprists, Histosols, Houghton, Lumley, Lupton, Makinen, Tawas"
+MI,Michigan,MI081,"Kent County, Michigan",32970.79,5.9,94.1,558509,5,"Adrian, Edwards, Houghton, Napoleon, Palms"
+MI,Michigan,MI029,"Charlevoix County, Michigan",32905.78,11.23,88.77,292985,9,"Carbondale, Cathro, Edwards, Greenwood, Kerston, Linwood, Lupton, Markey, Tawas"
+MI,Michigan,MI023,"Branch County, Michigan",32489.88,9.78,90.22,332243,4,"Adrian, Edwards, Houghton, Palms"
+MI,Michigan,MI107,"Mecosta County, Michigan",32211.65,8.83,91.17,364934,9,"Adrian, Cathro, Edwards, Houghton, Loxley, Lupton, Palms, Rondeau, Tawas"
+MI,Michigan,MI047,"Emmet County, Michigan",31781.11,10.25,89.75,309997,5,"Carbondale, Greenwood, Linwood, Lupton, Tawas"
+MI,Michigan,MI027,"Cass County, Michigan",31778.27,9.72,90.28,326797,6,"Adrian, Edwards, Histosols, Houghton, Napoleon, Palms"
+MI,Michigan,MI005,"Allegan County, Michigan",30297.56,5.61,94.39,539680,7,"Adrian, Edwards, Histosols, Houghton, Linwood, Napoleon, Palms"
+MI,Michigan,MI059,"Hillsdale County, Michigan",28911.91,7.45,92.55,388167,7,"Adrian, Edwards, Histosols, Houghton, Muskego, Napoleon, Palms"
+MI,Michigan,MI045,"Eaton County, Michigan",28691.24,7.73,92.27,371321,5,"Adrian, Edwards, Histosols, Houghton, Palms"
+MI,Michigan,MI077,"Kalamazoo County, Michigan",27823.94,7.49,92.51,371372,5,"Adrian, Edwards, Histosols, Houghton, Palms"
+MI,Michigan,MI131,"Ontonagon County, Michigan",27786.79,3.27,96.73,848723,11,"Beseman, Bowstring, Cathro, Dawson, Dorval, Greenwood, Histosols, Loxley, Lupton, Markey, Tawas"
+MI,Michigan,MI073,"Isabella County, Michigan",26366.03,7.13,92.87,369849,11,"Adrian, Cathro, Edwards, Histosols, Houghton, Lupton, Markey, Palms, Pinnebog, Rondeau, Tawas"
+MI,Michigan,MI149,"St. Joseph County, Michigan",25866.26,7.8,92.2,331527,5,"Adrian, Edwards, Histosols, Houghton, Palms"
+MI,Michigan,MI127,"Oceana County, Michigan",25168.54,7.2,92.8,349408,9,"Adrian, Carlisle, Edwards, Histosols, Houghton, Kerston, Medisaprists, Napoleon, Palms"
+MI,Michigan,MI079,"Kalkaska County, Michigan",25024.28,6.86,93.14,365031,6,"Bowstring, Dawson, Histosols, Loxley, Lupton, Tawas"
+MI,Michigan,MI037,"Clinton County, Michigan",24947.31,6.78,93.22,367814,6,"Adrian, Carlisle, Edwards, Houghton, Linwood, Palms"
+MI,Michigan,MI155,"Shiawassee County, Michigan",24496.43,7.08,92.92,346023,7,"Adrian, Carlisle, Edwards, Houghton, Linwood, Palms, Timakwa"
+MI,Michigan,MI137,"Otsego County, Michigan",24252.6,7.2,92.8,336749,7,"Bowstring, Cathro, Dawson, Histosols, Loxley, Lupton, Tawas"
+MI,Michigan,MI606,"Isle Royale National Park, Michigan",23994.54,4.36,95.64,550432,9,"Beseman, Cathro, Greenwood, Lupton, Markey, Minong, Seelyeville, Tawas, Trout Bay"
+MI,Michigan,MI105,"Mason County, Michigan",23553,7.2,92.8,326970,11,"Adrian, Carlisle, Dawson, Edwards, Histosols, Houghton, Kerston, Loxley, Medisaprists, Palms, Willette"
+MI,Michigan,MI055,"Grand Traverse County, Michigan",23449.07,7.42,92.58,316166,12,"Adrian, Carlisle, Cathro, Edwards, Greenwood, Houghton, Kerston, Lupton, Palms, Rifle, Rondeau, Tawas"
+MI,Michigan,MI605,"Keweenaw County Area, Michigan",22736.18,9.58,90.42,237453,7,"Cathro, Dawson, Histosols, Loxley, Lupton, Skandia, Tawas"
+MI,Michigan,MI091,"Lenawee County, Michigan",19585.68,4.02,95.98,487354,13,"Adrian, Carlisle, Edwards, Houghton, Kerston, Linwood, Muskego, Ogden, Palms, Rifle, Rollin, Tawas, Willette"
+MI,Michigan,MI039,"Crawford County, Michigan",18483.52,5.13,94.87,360602,7,"Bowstring, Dawson, Haplosaprists, Histosols, Loxley, Lupton, Tawas"
+MI,Michigan,MI009,"Antrim County, Michigan",18333.35,5.46,94.54,335789,5,"Cathro, Dawson, Histosols, Lupton, Tawas"
+MI,Michigan,MI067,"Ionia County, Michigan",17778.31,4.79,95.21,371411,10,"Adrian, Carlisle, Edwards, Houghton, Kerston, Linwood, Palms, Rifle, Tawas, Willette"
+MI,Michigan,MI049,"Genesee County, Michigan",17740.21,4.27,95.73,415725,8,"Adrian, Carlisle, Edwards, Houghton, Linwood, Palms, Rifle, Tawas"
+MI,Michigan,MI011,"Arenac County, Michigan",17056.6,7.17,92.83,237959,16,"Adrian, Carbondale, Dawson, Edwards, Greenwood, Houghton, Kerston, Linwood, Loxley, Lupton, Markey, Rifle, Rondeau, Tawas, Timakwa, Willette"
+MI,Michigan,MI121,"Muskegon County, Michigan",16729.19,4.96,95.04,337094,7,"Adrian, Carlisle, Edwards, Houghton, Kerston, Palms, Tawas"
+MI,Michigan,MI021,"Berrien County, Michigan",15080.86,4.06,95.94,371456,6,"Adrian, Edwards, Histosols, Houghton, Kerston, Palms"
+MI,Michigan,MI157,"Tuscola County, Michigan",14451.14,2.76,97.24,522995,10,"Adrian, Carlisle, Edwards, Histosols, Houghton, Linwood, Lupton, Markey, Palms, Willette"
+MI,Michigan,MI089,"Leelanau County, Michigan",14397.44,6.14,93.86,234489,6,"Adrian, Edwards, Houghton, Lupton, Markey, Muck"
+MI,Michigan,MI135,"Oscoda County, Michigan",14177.05,3.88,96.12,365831,10,"Bowstring, Cathro, Dawson, Dorval, Haplosaprists, Histosols, Loxley, Lupton, Rondeau, Tawas"
+MI,Michigan,MI051,"Gladwin County, Michigan",13459.62,4.08,95.92,330240,13,"Adrian, Carbondale, Carlisle, Cathro, Edwards, Houghton, Linwood, Loxley, Lupton, Markey, Rondeau, Tawas, Timakwa"
+MI,Michigan,MI063,"Huron County, Michigan",11897.31,2.18,97.82,545254,6,"Adrian, Carlisle, Edwards, Histosols, Linwood, Pinnebog"
+MI,Michigan,MI139,"Ottawa County, Michigan",11264.53,3.06,96.94,368505,6,"Adrian, Carlisle, Edwards, Houghton, Linwood, Palms"
+MI,Michigan,MI057,"Gratiot County, Michigan",7097.9,1.94,98.06,365779,4,"Adrian, Edwards, Houghton, Palms"
+MI,Michigan,MI147,"St. Clair County, Michigan",6358.78,1.32,98.68,481005,6,"Adrian, Carlisle, Houghton, Linwood, Palms, Willette"
+MI,Michigan,MI099,"Macomb County, Michigan",3121.73,1.01,98.99,309261,8,"Adrian, Edwards, Houghton, Linwood, Lupton, Palms, Timakwa, Willette"
+MI,Michigan,MI111,"Midland County, Michigan",2435.6,0.72,99.28,338009,7,"Adrian, Edwards, Houghton, Loxley, Markey, Palms, Pinnebog"
+MI,Michigan,MI115,"Monroe County, Michigan",348.43,0.1,99.9,360697,3,"Adrian, Edwards, Houghton"
+MI,Michigan,MI163,"Wayne County, Michigan",347,0.09,99.91,406464,2,"Edwards, Houghton"
+MI,Michigan,MI145,"Saginaw County, Michigan",47.11,0.01,99.99,522035,4,"Adrian, Houghton, Linwood, Palms"
+MI,Michigan,MI017,"Bay County, Michigan",30.2,0.01,99.99,291040,4,"Adrian, Edwards, Houghton, Timakwa"
+NC,North Carolina,NC095,"Hyde County, North Carolina",240781.14,27.64,72.36,871136,8,"Belhaven, Cipre, Delway, Dorovan, Longshoal, Ponzer, Pungo, Scuppernong"
+NC,North Carolina,NC055,"Dare County, North Carolina",155331.22,19.4,80.6,800601,6,"Belhaven, Currituck, Dorovan, Hobonny, Ponzer, Pungo"
+NC,North Carolina,NC177,"Tyrrell County, North Carolina",132599.95,34.61,65.39,383143,4,"Belhaven, Dorovan, Ponzer, Pungo"
+NC,North Carolina,NC031,"Carteret County, North Carolina",72703.37,10.79,89.21,673625,7,"Belhaven, Croatan, Dare, Dorovan, Longshoal, Ponzer, Pungo"
+NC,North Carolina,NC187,"Washington County, North Carolina",61231.95,23.15,76.85,264486,5,"Belhaven, Dorovan, Ponzer, Pungo, Scuppernong"
+NC,North Carolina,NC029,"Camden County, North Carolina",60349.84,29.62,70.38,203770,4,"Belhaven, Dorovan, Hobonny, Pungo"
+NC,North Carolina,NC141,"Pender County, North Carolina",59421.39,10.57,89.43,562381,2,"Croatan, Dorovan"
+NC,North Carolina,NC053,"Currituck County, North Carolina",55177.81,19.63,80.37,281082,5,"Belhaven, Currituck, Dare, Dorovan, Ponzer"
+NC,North Carolina,NC017,"Bladen County, North Carolina",55020.09,9.68,90.32,568205,3,"Croatan, Dorovan, Pamlico"
+NC,North Carolina,NC049,"Craven County, North Carolina",53150.22,10.91,89.09,487213,6,"Belhaven, Croatan, Dare, Dorovan, Longshoal, Ponzer"
+NC,North Carolina,NC013,"Beaufort County, North Carolina",50258.26,8.2,91.8,612980,7,"Belhaven, Croatan, Currituck, Dare, Dorovan, Ponzer, Pungo"
+NC,North Carolina,NC103,"Jones County, North Carolina",37522.32,12.46,87.54,301191,2,"Croatan, Hobonny"
+NC,North Carolina,NC047,"Columbus County, North Carolina",37321.68,6.12,93.88,609882,2,"Croatan, Dorovan"
+NC,North Carolina,NC019,"Brunswick County, North Carolina",37125.41,6.5,93.5,571513,3,"Croatan, Dorovan, Longshoal"
+NC,North Carolina,NC137,"Pamlico County, North Carolina",36612.17,9.94,90.06,368186,5,"Belhaven, Croatan, Dare, Longshoal, Pungo"
+NC,North Carolina,NC073,"Gates County, North Carolina",34800.3,15.74,84.26,221088,3,"Belhaven, Dorovan, Pungo"
+NC,North Carolina,NC133,"Onslow County, North Carolina",33559.59,6.39,93.61,524934,3,"Croatan, Dorovan, Longshoal"
+NC,North Carolina,NC015,"Bertie County, North Carolina",25818.75,5.48,94.52,471379,1,Dorovan
+NC,North Carolina,NC139,"Pasquotank County, North Carolina",21420.07,11.57,88.43,185203,3,"Belhaven, Dorovan, Pungo"
+NC,North Carolina,NC091,"Hertford County, North Carolina",13606.8,5.87,94.13,231738,1,Dorovan
+NC,North Carolina,NC143,"Perquimans County, North Carolina",10746.27,5.15,94.85,208845,4,"Belhaven, Dorovan, Pungo, Scuppernong"
+NC,North Carolina,NC051,"Cumberland County, North Carolina",10668.81,2.53,97.47,421414,1,Croatan
+NC,North Carolina,NC129,"New Hanover County, North Carolina",8399.2,5.96,94.04,140973,2,"Dorovan, Pamlico"
+NC,North Carolina,NC041,"Chowan County, North Carolina",7420.84,4.79,95.21,154784,4,"Belhaven, Dorovan, Pungo, Scuppernong"
+NC,North Carolina,NC061,"Duplin County, North Carolina",6695.22,1.28,98.72,524429,2,"Croatan, Pamlico"
+NC,North Carolina,NC165,"Scotland County, North Carolina",4807.8,2.34,97.66,205331,1,Pamlico
+NC,North Carolina,NC107,"Lenoir County, North Carolina",3833.6,1.49,98.51,257549,1,Pamlico
+NC,North Carolina,NC117,"Martin County, North Carolina",3197.3,1.07,98.93,299687,2,"Croatan, Dorovan"
+NC,North Carolina,NC155,"Robeson County, North Carolina",1409.4,0.23,99.77,608377,1,Croatan
+NC,North Carolina,NC163,"Sampson County, North Carolina",1226.4,0.2,99.8,606304,1,Pamlico
+NC,North Carolina,NC191,"Wayne County, North Carolina",892.8,0.25,99.75,355661,1,Pamlico
+NC,North Carolina,NC189,"Watauga County, North Carolina",540.47,0.27,99.73,200992,2,"Clingman, Longhope"
+NC,North Carolina,NC011,"Avery County, North Carolina",532.41,0.34,99.66,158124,1,Clingman
+NC,North Carolina,NC021,"Buncombe County, North Carolina",396.3,0.09,99.91,422483,1,Clingman
+NC,North Carolina,NC199,"Yancey County, North Carolina",368.4,0.18,99.82,200704,1,Clingman
+NC,North Carolina,NC175,"Transylvania County, North Carolina",62.8,0.03,99.97,243283,1,Clingman
+NC,North Carolina,NC111,"McDowell County, North Carolina",51.2,0.02,99.98,283450,1,Clingman
+NC,North Carolina,NC027,"Caldwell County, North Carolina",28.79,0.01,99.99,303661,1,Clingman
+NC,North Carolina,NC606,"Haywood County Area, North Carolina",9.74,0,100,295140,2,"Clingman, Longhope"
+NC,North Carolina,NC089,"Henderson County, North Carolina",0.34,0,100,239936,1,Clingman
+NC,North Carolina,NC001,"Alamance County, North Carolina",0,0,100,278419,0,NA
+NC,North Carolina,NC003,"Alexander County, North Carolina",0,0,100,168538,0,NA
+NC,North Carolina,NC005,"Alleghany County, North Carolina",0,0,100,150093,0,NA
+NC,North Carolina,NC007,"Anson County, North Carolina",0,0,100,343833,0,NA
+NC,North Carolina,NC009,"Ashe County, North Carolina",0,0,100,272743,0,NA
+NC,North Carolina,NC023,"Burke County, North Carolina",0,0,100,329696,0,NA
+NC,North Carolina,NC025,"Cabarrus County, North Carolina",0,0,100,233312,0,NA
+NC,North Carolina,NC033,"Caswell County, North Carolina",0,0,100,274183,0,NA
+NC,North Carolina,NC035,"Catawba County, North Carolina",0,0,100,264422,0,NA
+NC,North Carolina,NC037,"Chatham County, North Carolina",0,0,100,453607,0,NA
+NC,North Carolina,NC039,"Cherokee County, North Carolina",0,0,100,298707,0,NA
+NC,North Carolina,NC043,"Clay County, North Carolina",0,0,100,141126,0,NA
+NC,North Carolina,NC045,"Cleveland County, North Carolina",0,0,100,299769,0,NA
+NC,North Carolina,NC057,"Davidson County, North Carolina",0,0,100,362611,0,NA
+NC,North Carolina,NC059,"Davie County, North Carolina",0,0,100,170797,0,NA
+NC,North Carolina,NC063,"Durham County, North Carolina",0,0,100,191066,0,NA
+NC,North Carolina,NC065,"Edgecombe County, North Carolina",0,0,100,323641,0,NA
+NC,North Carolina,NC067,"Forsyth County, North Carolina",0,0,100,264909,0,NA
+NC,North Carolina,NC069,"Franklin County, North Carolina",0,0,100,316755,0,NA
+NC,North Carolina,NC071,"Gaston County, North Carolina",0,0,100,232890,0,NA
+NC,North Carolina,NC075,"Graham County, North Carolina",0,0,100,193018,0,NA
+NC,North Carolina,NC077,"Granville County, North Carolina",0,0,100,343744,0,NA
+NC,North Carolina,NC079,"Greene County, North Carolina",0,0,100,170580,0,NA
+NC,North Carolina,NC081,"Guilford County, North Carolina",0,0,100,420697,0,NA
+NC,North Carolina,NC083,"Halifax County, North Carolina",0,0,100,468026,0,NA
+NC,North Carolina,NC085,"Harnett County, North Carolina",0,0,100,384966,0,NA
+NC,North Carolina,NC093,"Hoke County, North Carolina",0,0,100,251238,0,NA
+NC,North Carolina,NC097,"Iredell County, North Carolina",0,0,100,380045,0,NA
+NC,North Carolina,NC099,"Jackson County, North Carolina",0,0,100,316877,0,NA
+NC,North Carolina,NC101,"Johnston County, North Carolina",0,0,100,510137,0,NA
+NC,North Carolina,NC105,"Lee County, North Carolina",0,0,100,166099,0,NA
+NC,North Carolina,NC109,"Lincoln County, North Carolina",0,0,100,196262,0,NA
+NC,North Carolina,NC113,"Macon County, North Carolina",0,0,100,332467,0,NA
+NC,North Carolina,NC115,"Madison County, North Carolina",0,0,100,288838,0,NA
+NC,North Carolina,NC119,"Mecklenburg County, North Carolina",0,0,100,351661,0,NA
+NC,North Carolina,NC121,"Mitchell County, North Carolina",0,0,100,142080,0,NA
+NC,North Carolina,NC123,"Montgomery County, North Carolina",0,0,100,320992,0,NA
+NC,North Carolina,NC125,"Moore County, North Carolina",0,0,100,451552,0,NA
+NC,North Carolina,NC127,"Nash County, North Carolina",0,0,100,347161,0,NA
+NC,North Carolina,NC131,"Northampton County, North Carolina",0,0,100,351757,0,NA
+NC,North Carolina,NC135,"Orange County, North Carolina",0,0,100,256646,0,NA
+NC,North Carolina,NC145,"Person County, North Carolina",0,0,100,258707,0,NA
+NC,North Carolina,NC147,"Pitt County, North Carolina",0,0,100,420173,0,NA
+NC,North Carolina,NC149,"Polk County, North Carolina",0,0,100,152928,0,NA
+NC,North Carolina,NC151,"Randolph County, North Carolina",0,0,100,505254,0,NA
+NC,North Carolina,NC153,"Richmond County, North Carolina",0,0,100,306938,0,NA
+NC,North Carolina,NC157,"Rockingham County, North Carolina",0,0,100,366388,0,NA
+NC,North Carolina,NC159,"Rowan County, North Carolina",0,0,100,334924,0,NA
+NC,North Carolina,NC161,"Rutherford County, North Carolina",0,0,100,364429,0,NA
+NC,North Carolina,NC167,"Stanly County, North Carolina",0,0,100,259188,0,NA
+NC,North Carolina,NC169,"Stokes County, North Carolina",0,0,100,291795,0,NA
+NC,North Carolina,NC171,"Surry County, North Carolina",0,0,100,345261,0,NA
+NC,North Carolina,NC605,"Swain County Area, North Carolina",0,0,100,127441,0,NA
+NC,North Carolina,NC179,"Union County, North Carolina",0,0,100,409139,0,NA
+NC,North Carolina,NC181,"Vance County, North Carolina",0,0,100,172025,0,NA
+NC,North Carolina,NC183,"Wake County, North Carolina",0,0,100,548487,0,NA
+NC,North Carolina,NC185,"Warren County, North Carolina",0,0,100,284160,0,NA
+NC,North Carolina,NC193,"Wilkes County, North Carolina",0,0,100,485382,0,NA
+NC,North Carolina,NC195,"Wilson County, North Carolina",0,0,100,240333,0,NA
+NC,North Carolina,NC197,"Yadkin County, North Carolina",0,0,100,216154,0,NA
+WI,Wisconsin,WI085,"Oneida County, Wisconsin",178304.18,22.53,77.47,791347,9,"Beseman, Carbondale, Cathro, Dawson, Greenwood, Loxley, Lupton, Markey, Tawas"
+WI,Wisconsin,WI099,"Price County, Wisconsin",171946.15,21.01,78.99,818547,12,"Beseman, Bowstring, Cathro, Dawson, Greenwood, Haplosaprists, Loxley, Lupton, Markey, Saprists, Seelyeville, Tawas"
+WI,Wisconsin,WI041,"Forest County, Wisconsin",144816.33,21.62,78.38,669863,8,"Beseman, Cathro, Dawson, Greenwood, Loxley, Lupton, Markey, Tawas"
+WI,Wisconsin,WI075,"Marinette County, Wisconsin",132511.27,14.46,85.54,916647,10,"Beseman, Cathro, Dawson, Greenwood, Loxley, Lupton, Markey, Saprists, Seelyeville, Tawas"
+WI,Wisconsin,WI113,"Sawyer County, Wisconsin",127389.13,14.75,85.25,863846,15,"Beseman, Bowstring, Cathro, Dawson, Greenwood, Haplosaprists, Loxley, Lupton, Markey, Rifle, Saprists, Seelyeville, Tacoosh, Tawas, Uskabwanka"
+WI,Wisconsin,WI051,"Iron County, Wisconsin",116793.64,22.71,77.29,514259,12,"Beseman, Bowstring, Cathro, Dawson, Greenwood, Haplosaprists, Loxley, Lupton, Markey, Saprists, Seelyeville, Tawas"
+WI,Wisconsin,WI003,"Ashland County, Wisconsin",111548.52,16.48,83.52,676755,12,"Beseman, Bowstring, Cathro, Dawson, Greenwood, Loxley, Lupton, Markey, Rifle, Saprists, Seelyeville, Tawas"
+WI,Wisconsin,WI031,"Douglas County, Wisconsin",104751.06,12.19,87.81,859385,13,"Beseman, Bowstring, Cathro, Dawson, Haplosaprists, Loxley, Lupton, Markey, Rifle, Saprists, Seelyeville, Tawas, Uskabwanka"
+WI,Wisconsin,WI119,"Taylor County, Wisconsin",97048.92,15.44,84.56,628538,6,"Beseman, Bowstring, Cathro, Loxley, Lupton, Markey"
+WI,Wisconsin,WI125,"Vilas County, Wisconsin",91814.21,14.1,85.9,651098,9,"Beseman, Cathro, Dawson, Greenwood, Histosols, Loxley, Markey, Seelyeville, Tawas"
+WI,Wisconsin,WI115,"Shawano County, Wisconsin",81926.02,14.07,85.93,582125,9,"Cathro, Dawson, Greenwood, Loxley, Lupton, Markey, Saprists, Seelyeville, Tawas"
+WI,Wisconsin,WI107,"Rusk County, Wisconsin",81196.14,13.63,86.37,595622,15,"Beseman, Bowstring, Cathro, Dawson, Greenwood, Haplosaprists, Loxley, Lupton, Markey, Rifle, Saprists, Seelyeville, Tacoosh, Tawas, Uskabwanka"
+WI,Wisconsin,WI083,"Oconto County, Wisconsin",75248.55,11.56,88.44,650985,10,"Beseman, Cathro, Dawson, Greenwood, Loxley, Lupton, Markey, Saprists, Seelyeville, Tawas"
+WI,Wisconsin,WI069,"Lincoln County, Wisconsin",70191.51,12.08,87.92,581261,7,"Beseman, Cathro, Dawson, Greenwood, Loxley, Lupton, Markey"
+WI,Wisconsin,WI135,"Waupaca County, Wisconsin",70077.49,14.32,85.68,489516,4,"Cathro, Loxley, Markey, Seelyeville"
+WI,Wisconsin,WI053,"Jackson County, Wisconsin",68443.82,10.7,89.3,639879,10,"Adder, Bowstring, Cathro, Citypoint, Dawsil, Houghton, Kerston, Loxley, Markey, Palms"
+WI,Wisconsin,WI013,"Burnett County, Wisconsin",68295.15,12.14,87.86,562733,16,"Beseman, Bowstring, Cathro, Daisybay, Dawson, Dora, Greenwood, Haplosaprists, Loxley, Lupton, Markey, Rondeau, Saprists, Seelyeville, Tawas, Uskabwanka"
+WI,Wisconsin,WI027,"Dodge County, Wisconsin",66545.1,11.45,88.55,581268,7,"Adrian, Adrian variant, Edwards, Houghton, Palms, Saprists, Willette"
+WI,Wisconsin,WI129,"Washburn County, Wisconsin",66137.13,12.09,87.91,546912,14,"Beseman, Bowstring, Cathro, Dawson, Greenwood, Haplosaprists, Loxley, Lupton, Markey, Rifle, Seelyeville, Tacoosh, Tawas, Uskabwanka"
+WI,Wisconsin,WI007,"Bayfield County, Wisconsin",56752.98,5.68,94.32,999872,12,"Beseman, Bowstring, Cathro, Dawson, Loxley, Lupton, Markey, Rifle, Saprists, Seelyeville, Tawas, Uskabwanka"
+WI,Wisconsin,WI097,"Portage County, Wisconsin",56112.71,10.65,89.35,526816,7,"Bowstring, Carbondale, Cathro, Dawson, Lupton, Markey, Seelyeville"
+WI,Wisconsin,WI055,"Jefferson County, Wisconsin",55587.26,14.9,85.1,373043,5,"Adrian, Edwards, Houghton, Palms, Willette"
+WI,Wisconsin,WI067,"Langlade County, Wisconsin",54884.73,9.66,90.34,568333,8,"Beseman, Cathro, Dawson, Greenwood, Loxley, Lupton, Markey, Seelyeville"
+WI,Wisconsin,WI077,"Marquette County, Wisconsin",54036.38,18.17,81.83,297376,7,"Adrian, Adrian variant, Edwards, Houghton, Houghton variant, Palms, Willette"
+WI,Wisconsin,WI073,"Marathon County, Wisconsin",53414.18,5.29,94.71,1008769,5,"Beseman, Cathro, Greenwood, Markey, Seelyeville"
+WI,Wisconsin,WI017,"Chippewa County, Wisconsin",51879.43,7.78,92.22,666464,9,"Beseman, Bowstring, Cathro, Dawsil, Dawson, Greenwood, Lupton, Markey, Seelyeville"
+WI,Wisconsin,WI137,"Waushara County, Wisconsin",50332.09,12.33,87.67,408122,9,"Adrian, Bowstring, Cathro, Edwards, Houghton, Markey, Palms, Seelyeville, Willette"
+WI,Wisconsin,WI039,"Fond du Lac County, Wisconsin",47729.17,9.75,90.25,489497,7,"Adrian, Carbondale, Edwards, Houghton, Ogden, Palms, Willette"
+WI,Wisconsin,WI095,"Polk County, Wisconsin",45681.23,7.46,92.54,612135,10,"Bowstring, Cathro, Dawson, Greenwood, Lupton, Markey, Rifle, Saprists, Seelyeville, Tawas"
+WI,Wisconsin,WI019,"Clark County, Wisconsin",44976.57,5.76,94.24,780224,9,"Adder, Beseman, Bowstring, Cathro, Citypoint, Dawsil, Dawson, Loxley, Markey"
+WI,Wisconsin,WI021,"Columbia County, Wisconsin",42562.49,8.38,91.62,508109,7,"Adrian, Boots, Bowstring, Edwards, Houghton, Palms, Willette"
+WI,Wisconsin,WI037,"Florence County, Wisconsin",41248.27,12.96,87.04,318215,8,"Beseman, Cathro, Dawson, Greenwood, Loxley, Lupton, Markey, Tawas"
+WI,Wisconsin,WI025,"Dane County, Wisconsin",40658.33,5.13,94.87,793094,6,"Adrian, Edwards, Houghton, Kerston, Palms, Willette"
+WI,Wisconsin,WI087,"Outagamie County, Wisconsin",38885.76,9.42,90.58,412659,10,"Carbondale, Cathro, Houghton, Lobo, Markey, Palms, Rondeau, Seelyeville, Suamico, Willette"
+WI,Wisconsin,WI141,"Wood County, Wisconsin",38347.67,7.41,92.59,517613,11,"Adder, Beseman, Bowstring, Cathro, Citypoint, Dawsil, Dawson, Loxley, Markey, Rifle, Seelyeville"
+WI,Wisconsin,WI071,"Manitowoc County, Wisconsin",37436.12,9.83,90.17,380984,5,"Adrian, Edwards, Houghton, Palms, Willette"
+WI,Wisconsin,WI057,"Juneau County, Wisconsin",37007.54,7.19,92.81,514752,11,"Adder, Bowstring, Cathro, Citypoint, Dawsil, Dawson, Houghton, Loxley, Markey, Palms, Seelyeville"
+WI,Wisconsin,WI133,"Waukesha County, Wisconsin",36244.22,9.76,90.24,371530,7,"Adrian, Edwards, Houghton, Muskego, Ogden, Palms, Willette"
+WI,Wisconsin,WI005,"Barron County, Wisconsin",32557.01,5.72,94.28,569197,6,"Beseman, Bowstring, Cathro, Greenwood, Markey, Seelyeville"
+WI,Wisconsin,WI131,"Washington County, Wisconsin",30430.15,10.92,89.08,278765,4,"Adrian, Houghton, Houghton variant, Palms"
+WI,Wisconsin,WI047,"Green Lake County, Wisconsin",29970.54,12.3,87.7,243648,5,"Adrian, Edwards, Houghton, Palms, Willette"
+WI,Wisconsin,WI029,"Door County, Wisconsin",28220.83,8.61,91.39,327712,11,"Carbondale, Cathro, Chippeny, Houghton, Markey, Palms, Rondeau, Saprists, Seelyeville, Suamico, Willette"
+WI,Wisconsin,WI139,"Winnebago County, Wisconsin",27658.4,7.46,92.54,370598,5,"Adrian, Edwards, Houghton, Palms, Willette"
+WI,Wisconsin,WI078,"Menominee County, Wisconsin",26051.81,11.15,88.85,233664,7,"Cathro, Dawson, Greenwood, Loxley, Lupton, Markey, Tawas"
+WI,Wisconsin,WI117,"Sheboygan County, Wisconsin",25791.35,7.78,92.22,331565,7,"Adrian, Boots, Edwards, Houghton, Muskego, Palms, Willette"
+WI,Wisconsin,WI001,"Adams County, Wisconsin",25160.82,5.71,94.29,440832,10,"Adrian, Bowstring, Cathro, Dawson, Edwards, Houghton, Markey, Palms, Seelyeville, Willette"
+WI,Wisconsin,WI081,"Monroe County, Wisconsin",24635.77,4.24,95.76,581287,11,"Adder, Bowstring, Cathro, Citypoint, Dawsil, Houghton, Kerston, Loxley, Markey, Palms, Seelyeville"
+WI,Wisconsin,WI127,"Walworth County, Wisconsin",24272.26,6.57,93.43,369318,5,"Adrian, Edwards, Houghton, Palms, Willette"
+WI,Wisconsin,WI061,"Kewaunee County, Wisconsin",19488.78,8.85,91.15,220281,8,"Carbondale, Cathro, Haplosaprists, Houghton, Markey, Palms, Seelyeville, Willette"
+WI,Wisconsin,WI033,"Dunn County, Wisconsin",17476.96,3.16,96.84,552723,7,"Bowstring, Cathro, Houghton, Kerston, Markey, Palms, Seelyeville"
+WI,Wisconsin,WI015,"Calumet County, Wisconsin",15950.37,6.28,93.72,254020,5,"Adrian, Edwards, Houghton, Palms, Willette"
+WI,Wisconsin,WI101,"Racine County, Wisconsin",14232.48,6.53,93.47,218087,7,"Adrian, Edwards, Houghton, Muskego, Ogden, Palms, Willette"
+WI,Wisconsin,WI035,"Eau Claire County, Wisconsin",11426.78,2.77,97.23,413197,12,"Adder, Adrian, Bowstring, Cathro, Citypoint, Dawsil, Houghton, Kerston, Loxley, Markey, Palms, Seelyeville"
+WI,Wisconsin,WI105,"Rock County, Wisconsin",10564.54,2.28,97.72,464326,5,"Adrian, Edwards, Houghton, Palms, Willette"
+WI,Wisconsin,WI111,"Sauk County, Wisconsin",10420.98,1.92,98.08,542886,14,"Adder, Adrian, Bowstring, Cathro, Dawsil, Edwards, Houghton, Kerston, Loxley, Markey, Palms, Saprists, Seelyeville, Willette"
+WI,Wisconsin,WI011,"Buffalo County, Wisconsin",10358.67,2.28,97.72,454188,7,"Adder, Cathro, Houghton, Kerston, Markey, Palms, Seelyeville"
+WI,Wisconsin,WI089,"Ozaukee County, Wisconsin",9926.58,6.59,93.41,150586,7,"Adrian, Edwards, Houghton, Muskego, Ogden, Palms, Willette"
+WI,Wisconsin,WI059,"Kenosha County, Wisconsin",9487.89,5.32,94.68,178207,7,"Adrian, Edwards, Houghton, Muskego, Ogden, Palms, Willette"
+WI,Wisconsin,WI009,"Brown County, Wisconsin",9268.68,2.66,97.34,349050,9,"Adrian, Carbondale, Cathro, Houghton, Markey, Ogden, Palms, Seelyeville, Willette"
+WI,Wisconsin,WI121,"Trempealeau County, Wisconsin",9129.42,1.92,98.08,474841,7,"Adder, Cathro, Houghton, Kerston, Markey, Palms, Seelyeville"
+WI,Wisconsin,WI063,"La Crosse County, Wisconsin",4721.27,1.54,98.46,307437,4,"Adder, Houghton, Kerston, Palms"
+WI,Wisconsin,WI109,"St. Croix County, Wisconsin",4569.34,0.97,99.03,470964,3,"Cathro, Saprists, Seelyeville"
+WI,Wisconsin,WI091,"Pepin County, Wisconsin",3924.57,2.47,97.53,158925,6,"Cathro, Houghton, Kerston, Markey, Palms, Seelyeville"
+WI,Wisconsin,WI045,"Green County, Wisconsin",3148.98,0.84,99.16,374093,3,"Adrian, Houghton, Palms"
+WI,Wisconsin,WI049,"Iowa County, Wisconsin",3138.54,0.64,99.36,490560,3,"Houghton, Kerston, Palms"
+WI,Wisconsin,WI103,"Richland County, Wisconsin",2514.48,0.67,99.33,377863,3,"Houghton, Kerston, Palms"
+WI,Wisconsin,WI043,"Grant County, Wisconsin",2095.98,0.28,99.72,755980,2,"Kerston, Palms"
+WI,Wisconsin,WI123,"Vernon County, Wisconsin",1910.11,0.37,99.63,522221,3,"Houghton, Kerston, Palms"
+WI,Wisconsin,WI079,"Milwaukee County, Wisconsin",1471.35,0.95,99.05,155424,7,"Adrian, Edwards, Houghton, Muskego, Ogden, Palms, Willette"
+WI,Wisconsin,WI023,"Crawford County, Wisconsin",870.8,0.23,99.77,382784,2,"Kerston, Palms"
+WI,Wisconsin,WI093,"Pierce County, Wisconsin",247.85,0.07,99.93,379025,4,"Bowstring, Kerston, Markey, Palms"
+WI,Wisconsin,WI065,"Lafayette County, Wisconsin",115.89,0.03,99.97,406419,2,"Houghton, Palms"
+WY,Wyoming,WY632,"Medicine Bow National Forest, Wyoming, Central and Western Parts",12754.85,1.41,98.59,905139,1,Euic Typic Cryohemists
+WY,Wyoming,WY656,"Shoshone National Forest, Wyoming",5936.17,0.24,99.76,2466559,2,"Cryofibrists, Histosols"
+WY,Wyoming,WY665,"Yellowstone National Park, Wyoming-Montana-Idaho",5206.5,0.24,99.76,2136121,2,"Grayslake, Tepete"
+WY,Wyoming,WY666,"Teton County, Wyoming, Grand Teton National Park Area",4904.9,1.19,98.81,411535,1,Cryofibrists
+WY,Wyoming,WY662,"Bridger National Forest, Wyoming, Eastern Part",2084.08,0.27,99.73,763086,5,"Clunie, Clunie family, Hemists, Terric Cryofibrists, typic cryohemists"
+WY,Wyoming,WY635,"Sublette County Area, Wyoming",1464.67,0.07,99.93,1973109,5,"Clunie family, Hemists, Terric Cryofibrists, typic cryohemists, Typic Cryohemists"
+WY,Wyoming,WY638,"Henrys Fork Area, Utah-Wyoming, Parts of: Daggett and Summit Counties, Utah and Sweetwater and Uinta Counties, Wyoming",470.85,0.2,99.8,240000,1,Borofibrists
+WY,Wyoming,WY629,"Park County Area, Wyoming, Eastern Part",370.86,0.02,99.98,1623458,6,"Cryofibrists, Daisybay-like, Mclangor-like, Stanbro-like, Tepete, Unnamed 18"
+WY,Wyoming,WY667,"Rockefeller Parkway, Wyoming",262.55,1.1,98.9,23770,1,Tepete
+WY,Wyoming,WY723,"Lincoln County Area, Wyoming, Southern Part",213.85,0.01,99.99,1573723,3,"Dougcliff family, typic cryohemists, Typic Cryohemists"
+WY,Wyoming,WY617,"Hot Springs County Area, Wyoming",94.25,0.01,99.99,961777,1,Uskabwanka-like
+WY,Wyoming,WY713,"Fremont County, Wyoming, East Part and Dubois Area",25.8,0,100,2594275,1,Hemists
+WY,Wyoming,WY663,"Bridger National Forest, Wyoming, Western Part",22.4,0,100,983593,1,typic cryohemists
+WY,Wyoming,WY647,"Wind River Basin Area, Wyoming, Parts of Fremont and Hot Springs Counties",1,0,100,1905383,1,Cryofibrists
+WY,Wyoming,WY601,"Albany County Area, Wyoming",0,0,100,2320491,0,NA
+WY,Wyoming,WY603,"Big Horn County Area, Wyoming",0,0,100,1671418,0,NA
+WY,Wyoming,WY650,"Big Horn National Forest, Wyoming, Parts of Big Horn, Johnson, Sheridan, and Washakie Counties",0,0,100,1115073,0,NA
+WY,Wyoming,WY705,"Campbell County, Wyoming, Northern Part",0,0,100,1286664,0,NA
+WY,Wyoming,WY605,"Campbell County, Wyoming, Southern Part",0,0,100,1793346,0,NA
+WY,Wyoming,WY630,"Carbon County Area, Wyoming",0,0,100,4427650,0,NA
+WY,Wyoming,WY709,"Converse County, Wyoming, Northern Part",0,0,100,1404105,0,NA
+WY,Wyoming,WY609,"Converse County, Wyoming, Southern Part",0,0,100,1098100,0,NA
+WY,Wyoming,WY011,"Crook County, Wyoming",0,0,100,1837114,0,NA
+WY,Wyoming,WY636,"Eden Valley Area, Wyoming, Parts of Sweetwater and Sublette Counties",0,0,100,76920,0,NA
+WY,Wyoming,WY677,"Fremont County, Wyoming, Lander Area",0,0,100,337270,0,NA
+WY,Wyoming,WY715,"Goshen County, Wyoming, Northern Part",0,0,100,596986,0,NA
+WY,Wyoming,WY615,"Goshen County, Wyoming, Southern Part",0,0,100,805567,0,NA
+WY,Wyoming,WY719,"Johnson County Area, Wyoming, Northern Part",0,0,100,1144739,0,NA
+WY,Wyoming,WY619,"Johnson County, Wyoming, Southern Part",0,0,100,1196785,0,NA
+WY,Wyoming,WY621,"Laramie County, Wyoming, Eastern Part",0,0,100,699612,0,NA
+WY,Wyoming,WY721,"Laramie County, Wyoming, Western Part",0,0,100,1019274,0,NA
+WY,Wyoming,WY622,"Medicine Bow National Forest, Wyoming, Northern Part",0,0,100,429121,0,NA
+WY,Wyoming,WY625,"Natrona County Area, Wyoming",0,0,100,3431080,0,NA
+WY,Wyoming,WY027,"Niobrara County, Wyoming",0,0,100,1718048,0,NA
+WY,Wyoming,WY031,"Platte County, Wyoming",0,0,100,1317273,0,NA
+WY,Wyoming,WY613,"Riverton Area, Wyoming",0,0,100,374590,0,NA
+WY,Wyoming,WY633,"Sheridan County Area, Wyoming",0,0,100,1222954,0,NA
+WY,Wyoming,WY623,"Star Valley Area, Wyoming-Idaho",0,0,100,189325,0,NA
+WY,Wyoming,WY737,"Sweetwater County Area, Wyoming",0,0,100,6592253,0,NA
+WY,Wyoming,WY661,"Teton National Forest, Wyoming, Parts of Teton, Fremont, Park, Sublette, and Lincoln Counties",0,0,100,1727026,0,NA
+WY,Wyoming,WY041,"Uinta County Area, Wyoming",0,0,100,1259393,0,NA
+WY,Wyoming,WY043,"Washakie County Area, Wyoming",0,0,100,1398559,0,NA
+WY,Wyoming,WY045,"Weston County, Wyoming",0,0,100,1537869,0,NA
