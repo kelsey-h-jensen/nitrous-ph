@@ -12,7 +12,7 @@ This repository contains the R scripts and data files used for data processing, 
 The data files used in this project are included in the `data` directory. The following datasets are provided:
 
 * `Zhang_2021_nitrogen_data_county.csv`: Annual crop-specific nitrogen budget history from _Half-Century History of Crop Nitrogen Budget in the Conterminous United States: Variations Over Time, Space and Crop Types_ [(Zhang et al. 2021)](https://doi.org/10.6084/m9.figshare.13030436).
-* `02102026_crop_soil_pH_recommendations.csv`: Crop-specific optimal soil pH recommendations sourced from multiple agricultural state extension services. **(NEEDS CITATION)**
+* `02102026_crop_soil_pH_recommendations.csv`: Crop-specific optimal soil pH recommendations sourced from multiple agricultural state extension services. Sources are provided for each state x crop in the csv.
 *  `multistate_histosols_by_county.csv`: Soil series data from the Soil Survey Geographic Database [(SSURGO)](https://websoilsurvey.sc.egov.usda.gov/App/HomePage.htm).
 * `EBK_Counties_RecDelta_and_ZonalAverage (With Counts and Percentages).csv` and `RF_Counties_RecDelta_and_ZonalAverage (With Counts and Percentages).csv`: Current pH predictions derived by Woollen et al. **(NEEDS CITATION)** using random forest and empirical Bayesian kriging models.
 * `qiu_supplement.csv`: Supplmentary data used to simulate uncertainty factor for the quadratic model. See `Supplementary Data 1.xlsx` from [Qiu et al. 2024](https://figshare.com/articles/dataset/Intermediate_soil_acidification_induces_highest_nitrous_oxide_emissions/24591522).
