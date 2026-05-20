@@ -1,0 +1,197 @@
+State,Crop,pH_Min,pH_Max,Soil_Type,Source_Level,Source_URL
+Alabama,Barley,6,6.5,both,Region - Southeast (GA/SC/AL/FL),https://extension.uga.edu/publications/detail.html?number=B1190&title=southern-small-grains-resource-management-handbook
+Alabama,Corn,5.8,6.5,both,Region - Southeast (GA/SC/AL/FL),https://extension.uga.edu/publications/detail.html?number=B1190&title=southern-small-grains-resource-management-handbook
+Alabama,Cotton,5.8,6.5,both,Region - Southeast (GA/SC/AL/FL),https://extension.uga.edu/publications/detail.html?number=B1190&title=southern-small-grains-resource-management-handbook
+Alabama,Sorghum,5.8,6.5,both,Region - Southeast (GA/SC/AL/FL),https://extension.uga.edu/publications/detail.html?number=B1190&title=southern-small-grains-resource-management-handbook
+Alabama,Winter Wheat,6,6.5,both,Region - Southeast (GA/SC/AL/FL),https://extension.uga.edu/publications/detail.html?number=B1190&title=southern-small-grains-resource-management-handbook
+Arkansas,Corn,5.8,6.5,both,State,https://www.uaex.uada.edu/publications/pdf/mp437/mp437.pdf
+Arkansas,Cotton,5.8,6.5,both,State,https://www.uaex.uada.edu/publications/pdf/mp437/mp437.pdf
+Arkansas,Rice,5,6.5,both,State,https://www.uaex.uada.edu/publications/pdf/mp192/chapter-9.pdf
+Arkansas,Sorghum,5.8,6.5,both,State,https://www.uaex.uada.edu/publications/pdf/mp437/mp437.pdf
+Arkansas,Winter Wheat,5.8,6.5,both,State,https://www.uaex.uada.edu/publications/pdf/mp404/chapter5wheat.pdf
+Florida,Barley,6,6,both,State - UF/IFAS SL-129 Table 2 (small grains target pH),https://edis.ifas.ufl.edu/publication/SS163
+Florida,Corn,6.5,6.5,both,State - UF/IFAS SL-129 Table 2,https://edis.ifas.ufl.edu/publication/SS163
+Florida,Sorghum,6.5,6.5,both,State - UF/IFAS SL-129 Table 2,https://edis.ifas.ufl.edu/publication/SS163
+Florida,Winter Wheat,6,6,both,State - UF/IFAS SL-129 Table 2,https://edis.ifas.ufl.edu/publication/SS163
+Georgia,Barley,6,6,both,State,https://aesl.ces.uga.edu/publications/soil/cropsheets.pdf
+Georgia,Corn,6,6.5,both,State,https://aesl.ces.uga.edu/publications/soil/cropsheets.pdf
+Georgia,Cotton,6,6.5,both,State,https://aesl.ces.uga.edu/publications/soil/cropsheets.pdf
+Georgia,Sorghum,6,6.5,both,State,https://aesl.ces.uga.edu/publications/soil/cropsheets.pdf
+Georgia,Winter Wheat,6,6,both,State,https://aesl.ces.uga.edu/publications/soil/cropsheets.pdf
+Indiana,Corn,6,6.8,both,State - Purdue Extension / Tri-State (Purdue co-authored),https://www.extension.purdue.edu/extmedia/AY/AY-9-32.html
+Indiana,Winter Wheat,6,6.8,both,State - Purdue Extension / Tri-State (Purdue co-authored),https://www.extension.purdue.edu/extmedia/AY/AY-9-32.html
+Kansas,Corn,5.5,6.5,both,State,https://eupdate.agronomy.ksu.edu/article_new/liming-soils-for-optimum-wheat-production-559-6
+Kansas,Sorghum,5.5,6.5,both,State,https://eupdate.agronomy.ksu.edu/article_new/liming-soils-for-optimum-wheat-production-559-6
+Kansas,Winter Wheat,5.5,6.5,both,State,https://eupdate.agronomy.ksu.edu/article_new/liming-soils-for-optimum-wheat-production-559-6
+Kentucky,Barley,6.2,6.8,both,State,https://publications.mgcafe.uky.edu/sites/publications.ca.uky.edu/files/AGR1_0.pdf
+Kentucky,Corn,6.2,6.8,both,State,https://publications.mgcafe.uky.edu/sites/publications.ca.uky.edu/files/AGR1_0.pdf
+Kentucky,Sorghum,6.2,6.8,both,State,https://publications.mgcafe.uky.edu/sites/publications.ca.uky.edu/files/AGR1_0.pdf
+Kentucky,Winter Wheat,6.2,6.8,both,State,https://publications.mgcafe.uky.edu/sites/publications.ca.uky.edu/files/AGR1_0.pdf
+Michigan,Barley,6.5,6.5,mineral,State,https://www.canr.msu.edu/fertrec/uploads/E-2904-MSU-Nutrient-recomdns-field-crops.pdf
+Michigan,Barley,5.8,5.8,organic,State,https://www.canr.msu.edu/fertrec/uploads/E-2904-MSU-Nutrient-recomdns-field-crops.pdf
+Michigan,Corn,6.5,6.5,mineral,State,https://www.canr.msu.edu/fertrec/uploads/E-2904-MSU-Nutrient-recomdns-field-crops.pdf
+Michigan,Corn,5.3,5.3,organic,State,https://www.canr.msu.edu/fertrec/uploads/E-2904-MSU-Nutrient-recomdns-field-crops.pdf
+Michigan,Winter Wheat,6.5,6.5,mineral,State,https://www.canr.msu.edu/fertrec/uploads/E-2904-MSU-Nutrient-recomdns-field-crops.pdf
+Michigan,Winter Wheat,5.8,5.8,organic,State,https://www.canr.msu.edu/fertrec/uploads/E-2904-MSU-Nutrient-recomdns-field-crops.pdf
+Michigan,Sorghum,6.5,6.5,mineral,State,https://www.canr.msu.edu/fertrec/uploads/E-2904-MSU-Nutrient-recomdns-field-crops.pdf
+Michigan,Sorghum,5.3,5.3,organic,State,https://www.canr.msu.edu/fertrec/uploads/E-2904-MSU-Nutrient-recomdns-field-crops.pdf
+Minnesota,Barley,6,6.5,both,State,https://extension.umn.edu/crop-specific-needs/fertilizing-barley
+Minnesota,Corn,6,6.5,both,State,https://extension.umn.edu/liming/lime-needs-minnesota
+Minnesota,Sorghum,6,6.5,both,State,https://extension.umn.edu/liming/lime-needs-minnesota
+Minnesota,Spring Wheat,6,6.5,both,State,https://extension.umn.edu/crop-specific-needs/fertilizing-wheat-minnesota
+Minnesota,Winter Wheat,6,6.5,both,State,https://extension.umn.edu/crop-specific-needs/fertilizing-wheat-minnesota
+Mississippi,Corn,6,7,both,State,https://extension.msstate.edu/publications/corn-fertilization
+Mississippi,Cotton,5.8,7,both,State,https://www.mafes.msstate.edu/publications/bulletins/b1143.pdf
+Mississippi,Rice,5,6.5,both,State,http://extension.msstate.edu/publications/publications/nutrient-management-guidelines-for-agronomic-crops-grown-mississippi
+Mississippi,Sorghum,5.8,6.5,both,State,http://extension.msstate.edu/publications/publications/nutrient-management-guidelines-for-agronomic-crops-grown-mississippi
+Mississippi,Winter Wheat,6,7,both,State,http://extension.msstate.edu/publications/publications/nutrient-management-guidelines-for-agronomic-crops-grown-mississippi
+Nebraska,Corn,5.5,7,both,State,https://extensionpublications.unl.edu/assets/pdf/ec117.pdf
+Nebraska,Sorghum,5.5,7,both,State,https://extensionpubs.unl.edu/publication/g1669/2013/html/view
+Nebraska,Winter Wheat,5.5,7,both,State,https://extensionpubs.unl.edu/publication/ec143/na/pdf/view
+North Carolina,Barley,6,6,mineral,State,https://content.ces.ncsu.edu/soil-acidity-and-liming-for-agricultural-soils
+North Carolina,Barley,5,5,organic,State,https://content.ces.ncsu.edu/soil-acidity-and-liming-for-agricultural-soils
+North Carolina,Corn,6,6,mineral,State,https://content.ces.ncsu.edu/soil-acidity-and-liming-for-agricultural-soils
+North Carolina,Corn,5,5,organic,State,https://content.ces.ncsu.edu/soil-acidity-and-liming-for-agricultural-soils
+North Carolina,Cotton,6.2,6.2,mineral,State,https://content.ces.ncsu.edu/soil-acidity-and-liming-for-agricultural-soils
+North Carolina,Cotton,5,5,organic,State,https://content.ces.ncsu.edu/soil-acidity-and-liming-for-agricultural-soils
+North Carolina,Sorghum,6,6,mineral,State,https://content.ces.ncsu.edu/soil-acidity-and-liming-for-agricultural-soils
+North Carolina,Sorghum,5,5,organic,State,https://content.ces.ncsu.edu/soil-acidity-and-liming-for-agricultural-soils
+North Carolina,Winter Wheat,6,6,mineral,State,https://content.ces.ncsu.edu/soil-acidity-and-liming-for-agricultural-soils
+North Carolina,Winter Wheat,5,5,organic,State,https://content.ces.ncsu.edu/soil-acidity-and-liming-for-agricultural-soils
+Ohio,Barley,6.3,6.8,both,State,https://stepupsoy.osu.edu/sites/hcs-soy/files/barley%20guide.pdf
+Ohio,Corn,6,6.8,both,Region - Tri-State (IN/MI/OH),https://agcrops.osu.edu/FertilityResources/tri-state_info
+Ohio,Winter Wheat,6.3,7,both,State,https://agcrops.osu.edu/newsletter/corn-newsletter/2021-30/wheat-management-fall-2021
+South Carolina,Barley,6,6.5,both,Region - Southeast (GA/SC/AL/FL),https://extension.uga.edu/publications/detail.html?number=B1190&title=southern-small-grains-resource-management-handbook
+South Carolina,Corn,5.8,6.5,both,Region - Southeast (GA/SC/AL/FL),https://extension.uga.edu/publications/detail.html?number=B1190&title=southern-small-grains-resource-management-handbook
+South Carolina,Cotton,5.8,6.5,both,Region - Southeast (GA/SC/AL/FL),https://extension.uga.edu/publications/detail.html?number=B1190&title=southern-small-grains-resource-management-handbook
+South Carolina,Sorghum,5.8,6.5,both,Region - Southeast (GA/SC/AL/FL),https://extension.uga.edu/publications/detail.html?number=B1190&title=southern-small-grains-resource-management-handbook
+South Carolina,Winter Wheat,6,6.5,both,Region - Southeast (GA/SC/AL/FL),https://extension.uga.edu/publications/detail.html?number=B1190&title=southern-small-grains-resource-management-handbook
+Illinois,Corn,6,6.5,both,State,http://extension.cropsciences.illinois.edu/handbook/pdfs/chapter08.pdf
+Illinois,Sorghum,6,6.5,both,State,http://extension.cropsciences.illinois.edu/handbook/pdfs/chapter08.pdf
+Illinois,Winter Wheat,6,6.5,both,State,http://extension.cropsciences.illinois.edu/handbook/pdfs/chapter08.pdf
+Iowa,Corn,6,6.5,both,State,https://www.agronext.iastate.edu/soilfertility/info/PM%2016881999.pdf
+Iowa,Sorghum,6,6.5,both,State,https://www.agronext.iastate.edu/soilfertility/info/PM%2016881999.pdf
+Iowa,Winter Wheat,6,6.5,both,State,https://www.agronext.iastate.edu/soilfertility/info/PM%2016881999.pdf
+Iowa,Barley,6,6.5,both,State,https://www.agronext.iastate.edu/soilfertility/info/PM%2016881999.pdf
+Missouri,Corn,6,6.5,both,State,https://extension.missouri.edu/publications/g9102
+Missouri,Winter Wheat,6,6.5,both,State,https://extension.missouri.edu/publications/g9102
+Missouri,Cotton,6,6.5,both,State,https://extension.missouri.edu/programs/cotton-extension/soil-fertility
+Missouri,Sorghum,6,6.5,both,State,https://extension.missouri.edu/publications/g9102
+Louisiana,Corn,6,6.5,both,State,https://www.cottonfarming.com/feature-story/soil-liming-and-lime-qualities/
+Louisiana,Cotton,6,6.5,both,State,https://www.cottonfarming.com/feature-story/soil-liming-and-lime-qualities/
+Louisiana,Rice,5,6.5,both,State,https://www.lsuagcenter.com/articles/page1721061518379
+Louisiana,Sorghum,5.8,6.5,both,State,https://repository.lsu.edu/cgi/viewcontent.cgi?article=2670&context=gradschool_theses
+Louisiana,Winter Wheat,6,6.5,both,State,https://www.lsuagcenter.com/articles/page1721061518379
+Oklahoma,Corn,5.5,6.8,both,State,https://sorghumpartners.com/wp-content/uploads/2021/04/OSU-Soil-Test-Interpretations-PSS-2225web.pdf
+Oklahoma,Cotton,5.5,6.8,both,State,https://sorghumpartners.com/wp-content/uploads/2021/04/OSU-Soil-Test-Interpretations-PSS-2225web.pdf
+Oklahoma,Sorghum,5.5,6.8,both,State,https://sorghumpartners.com/wp-content/uploads/2021/04/OSU-Soil-Test-Interpretations-PSS-2225web.pdf
+Oklahoma,Winter Wheat,5.5,6.8,both,State,https://extension.okstate.edu/fact-sheets/managing-acid-soils-for-wheat-production.html
+South Dakota,Corn,6,6.5,both,Region - University of Minnesota Extension (not SD-specific),https://extension.umn.edu/liming/lime-needs-minnesota
+South Dakota,Sorghum,6,6.5,both,Region - University of Minnesota Extension (not SD-specific),https://extension.umn.edu/liming/lime-needs-minnesota
+South Dakota,Winter Wheat,6,6.5,both,Region - University of Minnesota Extension (not SD-specific),https://extension.umn.edu/crop-specific-needs/fertilizing-wheat-minnesota
+South Dakota,Barley,6,6.5,both,Region - University of Minnesota Extension (not SD-specific),https://extension.umn.edu/crop-specific-needs/fertilizing-barley
+South Dakota,Spring Wheat,6,6.5,both,Region - University of Minnesota Extension (not SD-specific),https://extension.umn.edu/crop-specific-needs/fertilizing-wheat-minnesota
+New York,Corn,6,6.2,both,State,http://nmsp.cals.cornell.edu/publications/factsheets/factsheet48.pdf
+New York,Barley,6.4,6.5,both,State,http://nmsp.cals.cornell.edu/publications/factsheets/factsheet48.pdf
+New York,Winter Wheat,6.4,6.5,both,State,http://nmsp.cals.cornell.edu/publications/factsheets/factsheet48.pdf
+New York,Sorghum,6,6.2,both,State,http://nmsp.cals.cornell.edu/publications/factsheets/factsheet48.pdf
+New York,Spring Wheat,6.4,6.5,both,State,http://nmsp.cals.cornell.edu/publications/factsheets/factsheet48.pdf
+Pennsylvania,Corn,6,7,both,State,https://extension.psu.edu/soil-acidity-and-aglime
+Pennsylvania,Barley,6.5,7,both,State,https://extension.psu.edu/soil-acidity-and-aglime
+Pennsylvania,Winter Wheat,6,7,both,State,https://extension.psu.edu/soil-acidity-and-aglime
+Pennsylvania,Sorghum,6,7,both,State,https://extension.psu.edu/soil-acidity-and-aglime
+Virginia,Corn,6.2,6.5,both,State,https://ext.vt.edu/content/pubs_ext_vt_edu/en/SPES/SPES-298/SPES-298.html
+Virginia,Cotton,6.2,6.5,both,State,https://ext.vt.edu/content/pubs_ext_vt_edu/en/SPES/SPES-298/SPES-298.html
+Virginia,Barley,6.2,6.5,both,State,https://ext.vt.edu/content/pubs_ext_vt_edu/en/SPES/SPES-298/SPES-298.html
+Virginia,Sorghum,6.2,6.5,both,State,https://ext.vt.edu/content/pubs_ext_vt_edu/en/SPES/SPES-298/SPES-298.html
+Virginia,Winter Wheat,6.2,6.5,both,State,https://ext.vt.edu/content/pubs_ext_vt_edu/en/SPES/SPES-298/SPES-298.html
+Wisconsin,Corn,6,6.8,mineral,State,https://cropsandsoils.extension.wisc.edu/articles/high-ph-soils-in-wisconsin-what-you-need-to-know/
+Wisconsin,Corn,5.6,5.6,organic,State,https://cropsandsoils.extension.wisc.edu/files/2024/07/Table-4.2.pdf
+Wisconsin,Winter Wheat,6,6,mineral,State,https://cropsandsoils.extension.wisc.edu/articles/soil-fertility-overview-for-small-grain-production-in-wisconsin-a-one-stop-shop/
+Wisconsin,Winter Wheat,5.6,5.6,organic,State,https://cropsandsoils.extension.wisc.edu/files/2024/07/Table-4.2.pdf
+Wisconsin,Barley,6.6,6.6,mineral,State,https://cropsandsoils.extension.wisc.edu/files/2024/07/Table-4.2.pdf
+Wisconsin,Barley,5.6,5.6,organic,State,https://cropsandsoils.extension.wisc.edu/files/2024/07/Table-4.2.pdf
+Wisconsin,Sorghum,5.6,5.6,mineral,State,https://cropsandsoils.extension.wisc.edu/files/2024/07/Table-4.2.pdf
+Wisconsin,Sorghum,5.4,5.4,organic,State,https://cropsandsoils.extension.wisc.edu/files/2024/07/Table-4.2.pdf
+Tennessee,Corn,6,6.5,both,Region - Southeast/Mid-South,https://extension.tennessee.edu/publications/documents/W235-A.pdf
+Tennessee,Cotton,5.8,6.5,both,State - UT Extension W1033 (cotton-specific),https://utia.tennessee.edu/publications/wp-content/uploads/sites/269/2023/10/W1033.pdf
+Tennessee,Sorghum,6,6.5,both,Region - Southeast/Mid-South,https://extension.tennessee.edu/publications/documents/W235-A.pdf
+Tennessee,Winter Wheat,6,6.5,both,Region - Southeast/Mid-South,https://extension.tennessee.edu/publications/documents/W235-A.pdf
+Texas,Corn,6,7,both,State,https://soiltesting.tamu.edu/
+Texas,Cotton,6,7,both,State,https://soiltesting.tamu.edu/
+Texas,Sorghum,6,7,both,State,https://soiltesting.tamu.edu/
+Texas,Winter Wheat,6,7,both,State,https://soiltesting.tamu.edu/
+Texas,Rice,5,6.5,both,State,https://soiltesting.tamu.edu/
+North Dakota,Corn,5.8,7.5,both,State,https://www.ndsu.edu/agriculture/extension/publications/soil-fertility-recommendations-corn
+North Dakota,Spring Wheat,5.8,7.5,both,State,https://www.ndsu.edu/agriculture/extension/publications/fertilizing-hard-red-spring-wheat-and-durum
+North Dakota,Barley,5.8,7.5,both,State,https://www.ndsu.edu/agriculture/extension/publications/north-dakota-fertilizer-recommendation-tables-and-equations
+North Dakota,Winter Wheat,5.8,7.5,both,State,https://www.ndsu.edu/agriculture/extension/publications/north-dakota-fertilizer-recommendation-tables-and-equations
+North Dakota,Durum Wheat,5.8,7.5,both,State,https://www.ndsu.edu/agriculture/extension/publications/fertilizing-hard-red-spring-wheat-and-durum
+Colorado,Corn,6,7.5,both,State,https://extension.colostate.edu/resource/changing-soil-ph/
+Colorado,Winter Wheat,6,7.5,both,State,https://extension.colostate.edu/resource/changing-soil-ph/
+Colorado,Sorghum,6,7.5,both,State,https://extension.colostate.edu/resource/changing-soil-ph/
+Colorado,Barley,6,7.5,both,State,https://extension.colostate.edu/resource/changing-soil-ph/
+Maryland,Corn,6,6.5,both,State,https://extension.umd.edu/sites/extension.umd.edu/files/2021-03/B-1.pdf
+Maryland,Winter Wheat,6,6.5,both,State,https://extension.umd.edu/sites/extension.umd.edu/files/2021-03/B-1.pdf
+Maryland,Barley,6,6.5,both,State,https://extension.umd.edu/sites/extension.umd.edu/files/2021-03/B-1.pdf
+Maryland,Sorghum,6,6.5,both,State,https://extension.umd.edu/sites/extension.umd.edu/files/2021-03/B-1.pdf
+Delaware,Corn,6,6.5,both,Region - Mid-Atlantic,https://extension.umd.edu/sites/extension.umd.edu/files/2021-03/B-1.pdf
+Delaware,Winter Wheat,6,6.5,both,Region - Mid-Atlantic,https://extension.umd.edu/sites/extension.umd.edu/files/2021-03/B-1.pdf
+Delaware,Barley,6,6.5,both,Region - Mid-Atlantic,https://extension.umd.edu/sites/extension.umd.edu/files/2021-03/B-1.pdf
+Delaware,Sorghum,6,6.5,both,Region - Mid-Atlantic,https://extension.umd.edu/sites/extension.umd.edu/files/2021-03/B-1.pdf
+Montana,Corn,6,7.5,both,State,https://landresources.montana.edu/soilfertility/documents/PDF/sscoop/SoilAcidifProbCauseTestSS.pdf
+Montana,Winter Wheat,6,7.5,both,State,https://landresources.montana.edu/soilfertility/documents/PDF/sscoop/SoilAcidifProbCauseTestSS.pdf
+Montana,Barley,6,7.5,both,State,https://landresources.montana.edu/soilfertility/documents/PDF/sscoop/SoilAcidifProbCauseTestSS.pdf
+Montana,Spring Wheat,6,7.5,both,State,https://landresources.montana.edu/soilfertility/documents/PDF/sscoop/SoilAcidifProbCauseTestSS.pdf
+Idaho,Corn,6,7.5,both,State,https://www.uidaho.edu/extension/county/canyon
+Idaho,Winter Wheat,6,7.5,both,State,https://www.uidaho.edu/extension/county/canyon
+Idaho,Barley,6,7.5,both,State,https://www.uidaho.edu/extension/county/canyon
+Idaho,Spring Wheat,6,7.5,both,State,https://www.uidaho.edu/extension/county/canyon
+Washington,Corn,6,7,both,State,https://pubs.extension.wsu.edu/
+Washington,Winter Wheat,6,7,both,State,https://pubs.extension.wsu.edu/
+Washington,Barley,6,7,both,State,https://pubs.extension.wsu.edu/
+Washington,Spring Wheat,6,7,both,State,https://pubs.extension.wsu.edu/
+Oregon,Corn,6,7,both,State,https://extension.oregonstate.edu/
+Oregon,Winter Wheat,6,7,both,State,https://extension.oregonstate.edu/
+Oregon,Barley,6,7,both,State,https://extension.oregonstate.edu/
+Oregon,Spring Wheat,6,7,both,State,https://extension.oregonstate.edu/
+California,Corn,6,7,both,State,https://anrcatalog.ucanr.edu/
+California,Rice,5,6.5,both,State,https://anrcatalog.ucanr.edu/
+California,Winter Wheat,6,7,both,State,https://anrcatalog.ucanr.edu/
+California,Barley,6,7.5,both,State,https://anrcatalog.ucanr.edu/
+California,Sorghum,6,7,both,State,https://anrcatalog.ucanr.edu/
+California,Cotton,6,7,both,State,https://anrcatalog.ucanr.edu/
+Arizona,Corn,basic soil,basic soil,both,State,https://extension.arizona.edu/
+Arizona,Cotton,basic soil,basic soil,both,State,https://extension.arizona.edu/
+Arizona,Sorghum,basic soil,basic soil,both,State,https://extension.arizona.edu/
+Arizona,Winter Wheat,basic soil,basic soil,both,State,https://extension.arizona.edu/
+Arizona,Barley,basic soil,basic soil,both,State,https://extension.arizona.edu/
+Arizona,Durum Wheat,basic soil,basic soil,both,State,https://extension.arizona.edu/
+Nevada,Corn,basic soil,basic soil,both,State,https://extension.unr.edu/
+Nevada,Winter Wheat,basic soil,basic soil,both,State,https://extension.unr.edu/
+Nevada,Barley,basic soil,basic soil,both,State,https://extension.unr.edu/
+New Mexico,Corn,basic soil,basic soil,both,State,https://pubs.nmsu.edu/_a/A146/
+New Mexico,Cotton,basic soil,basic soil,both,State,https://pubs.nmsu.edu/_a/A146/
+New Mexico,Sorghum,basic soil,basic soil,both,State,https://pubs.nmsu.edu/_a/A146/
+New Mexico,Winter Wheat,basic soil,basic soil,both,State,https://pubs.nmsu.edu/_a/A146/
+New Mexico,Barley,basic soil,basic soil,both,State,https://pubs.nmsu.edu/_a/A146/
+Utah,Corn,basic soil,basic soil,both,State,https://extension.usu.edu/
+Utah,Winter Wheat,basic soil,basic soil,both,State,https://extension.usu.edu/
+Utah,Barley,basic soil,basic soil,both,State,https://extension.usu.edu/
+Wyoming,Corn,basic soil,basic soil,both,State,https://wyoextension.org/publications/html/B1358/
+Wyoming,Winter Wheat,basic soil,basic soil,both,State,https://wyoextension.org/publications/html/B1358/
+Wyoming,Barley,basic soil,basic soil,both,State,https://wyoextension.org/publications/html/B1358/
+California,Durum Wheat,6.3,7,both,Region - Cornell Agronomy Fact Sheet 5 (wheat generally; not CA-specific),http://cceonondaga.org/resources/soil-ph-for-field-crops
+Colorado,Spring Wheat,6.3,7,both,Region - Cornell Agronomy Fact Sheet 5 (wheat generally; not CO-specific),http://cceonondaga.org/resources/soil-ph-for-field-crops
+Florida,Cotton,6.5,6.5,both,State - UF/IFAS SL-129 Table 2,https://edis.ifas.ufl.edu/publication/SS163
+Kansas,Cotton,6,6.5,both,Region - Missouri Extension G4256 (cotton-specific; not KS-specific),https://extension.missouri.edu/publications/g4256
+Missouri,Rice,5,6.5,both,Region - Arkansas Extension MP192 (not MO-specific),https://www.uaex.uada.edu/publications/pdf/mp192/chapter-9.pdf
+Montana,Durum Wheat,6,7.5,both,State,https://landresources.montana.edu/soilfertility/documents/PDF/sscoop/SoilAcidifProbCauseTestSS.pdf
+New Jersey,Corn,6,7,both,Region - Penn State Extension (corn-specific; not NJ-specific),https://extension.psu.edu/soil-acidity-and-aglime
+New Jersey,Winter Wheat,6,7,both,Region - Penn State Extension (wheat-specific; not NJ-specific),https://extension.psu.edu/soil-acidity-and-aglime
+West Virginia,Winter Wheat,5.8,6.2,both,State - WVU Extension Crop Fertilizer Recommendations Table 9,https://extension.wvu.edu/files/d/6a116f8f-955c-41d1-9cbf-d2d9c1bda919/crop-fertilizer-recommendations.pdf
+West Virginia,Corn,6.2,6.5,both,Region - Virginia Tech Extension SPES-298 (corn-specific; not WV-specific),https://ext.vt.edu/content/pubs_ext_vt_edu/en/SPES/SPES-298/SPES-298.html
+West Virginia,Barley,6,6.5,both,State - WVU Extension Crop Fertilizer Recommendations Table 9,https://extension.wvu.edu/files/d/6a116f8f-955c-41d1-9cbf-d2d9c1bda919/crop-fertilizer-recommendations.pdf
+West Virginia,Sorghum,5.8,6.2,both,State - WVU Extension Crop Fertilizer Recommendations Table 9,https://extension.wvu.edu/files/d/6a116f8f-955c-41d1-9cbf-d2d9c1bda919/crop-fertilizer-recommendations.pdf
+Indiana,Sorghum,6,6.5,both,State - Purdue Extension AY-253 (sorghum-specific),https://www.extension.purdue.edu/extmedia/AY/AY-253-W.html
+Indiana,Barley,6.2,6.8,both,State - Purdue Extension AY-253 (barley-specific),https://www.extension.purdue.edu/extmedia/AY/AY-253-W.html
